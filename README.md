@@ -1,5 +1,10 @@
 # google-analytics-embed-api
-Googl Aanalytics Embed API
+Google Analytics Embed API
+
+Google Anlaytics Embed API documentation:
+https://developers.google.com/analytics/devguides/reporting/embed/v1/getting-started
+
+How to adapt it in Google Apps Script:
 
 1) Create a standalone Google Apps Script;
 
