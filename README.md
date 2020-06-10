@@ -13,8 +13,10 @@ https://developers.google.com/apps-script/guides/cloud-platform-projects#switchi
 
 3) Create an ID Client in GCP;
 
-4) Enable Google Analytics API in script editor and GCP;
+4) Replace in index.html file the placeholder *REPLACE_WITH_YOUR_CLIENT_ID* with the ID Client;
 
-5) Deploy script as web application:
+5) Enable Google Analytics API in script editor and GCP;
+
+6) Deploy script as web application:
 
 ![alt text](<google-analytics-embed-api.png>)
