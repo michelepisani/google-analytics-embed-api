@@ -3,7 +3,8 @@ Googl Aanalytics Embed API
 
 1) Create a standalone Google Apps Script;
 
-2) Convert project from default to standard in GCP: https://developers.google.com/apps-script/guides/cloud-platform-projects#switching_to_a _different_standard_gcp_project
+2) Convert project from default to standard in GCP:
+https://developers.google.com/apps-script/guides/cloud-platform-projects#switching_to_a_different_standard_gcp_project
 
 3) Create an ID Client in GCP;
 
